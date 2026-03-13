@@ -1,0 +1,23 @@
+# Environment files
+.env
+*.env
+rag/.env
+project/backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Node / frontend
+node_modules/
+project/frontend/node_modules/
+dist/
+project/frontend/dist/
+
+# ChromaDB and other data
+rag/chroma_db/
+
