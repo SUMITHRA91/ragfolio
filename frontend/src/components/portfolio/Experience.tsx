@@ -15,12 +15,22 @@ export function Experience() {
                     >
                         <div className="absolute w-3 h-3 bg-blue-500 rounded-full -left-[6.5px] top-1.5 ring-4 ring-zinc-950"></div>
                         <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-2">
-                            <h3 className="text-lg font-medium text-white">Software Engineer</h3>
-                            <span className="text-sm text-zinc-500">Jan 2023 - Present</span>
+                            <h3 className="text-lg font-medium text-white">Software Engineering Virtual Experience Program</h3>
+                            <span className="text-sm text-zinc-500">Aug 2025</span>
                         </div>
-                        <p className="text-blue-400 text-sm mb-3">Company Name</p>
+                        <p className="text-blue-400 text-sm mb-3">J.P. Morgan (Forage) | Remote</p>
                         <p className="text-zinc-400 text-sm leading-relaxed">
-                            Description of your role and key achievements. Mention specific technologies and impact.
+                            Completed a virtual software engineering program focused on real-world financial application development.
+
+Set up a local development environment and worked with Java and Spring Boot.
+
+Integrated Apache Kafka for data streaming and messaging between services.
+
+Used H2 Database for data storage and testing purposes.
+
+Built and tested RESTful APIs, including implementation of controllers and endpoints.
+
+Gained exposure to backend system design and microservices-based architecture.
                         </p>
                     </motion.div>
 
@@ -33,12 +43,22 @@ export function Experience() {
                     >
                         <div className="absolute w-3 h-3 bg-zinc-700 rounded-full -left-[6.5px] top-1.5 ring-4 ring-zinc-950"></div>
                         <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-2">
-                            <h3 className="text-lg font-medium text-white">Intern developer</h3>
-                            <span className="text-sm text-zinc-500">Jun 2022 - Dec 2022</span>
+                            <h3 className="text-lg font-medium text-white">Network Engineer Intern (Virtual Internship)</h3>
+                            <span className="text-sm text-zinc-500">Jul 2024 – Sep 2024</span>
                         </div>
-                        <p className="text-blue-400 text-sm mb-3">Previous Company</p>
+                        <p className="text-blue-400 text-sm mb-3">Zscaler (AICTE Collaboration) | Remote</p>
                         <p className="text-zinc-400 text-sm leading-relaxed">
-                            Description of tasks and what you learned during this period.
+                            Learned core concepts of computer networks, including TCP/IP, routing, and network architecture.
+
+Gained hands-on understanding of firewalls, VPNs, and cloud security solutions.
+
+Studied and applied Zero Trust Architecture for securing enterprise systems.
+
+Explored Secure Access Service Edge (SASE) and its role in modern cloud-based security.
+
+Completed virtual labs simulating secure connectivity, firewall configuration, and traffic monitoring.
+
+Developed foundational knowledge in network security and cloud infrastructure.
                         </p>
                     </motion.div>
                 </div>
